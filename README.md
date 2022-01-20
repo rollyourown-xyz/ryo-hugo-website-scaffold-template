@@ -1,3 +1,3 @@
 # hugo-scaffold-template
 
-Template repository for hugo scaffolding for the rollyourown.xyz project ryo-hugo-website.
+Template repository for hugo scaffolding for the rollyourown.xyz ryo-hugo-website project.
